@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+}
+
+
+div {
+    border: 4px dotted #00f;
+    width: fit-content;
+    font-size: 24px;
+
+    /* padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 40px; */
+    padding: 20px;
+    padding: 30px 50px;
+    padding: 20px 50px 5px;
+    padding: 30px 50px 70px 90px;
+    
+    padding-inline: 40px;
+    padding-block: 20px;
+}
+/* 07:00 */
+
+h1{
+    border: 1px solid red;
+    margin-bottom: 20px;
+}
+
+.algum{
+    margin-bottom: 100px;
+}
+
+.ultimo{
+    margin-top: 50px;
+}
+
+.outro{
+    margin-inline: auto;
+}
